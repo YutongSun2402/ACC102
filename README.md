@@ -9,7 +9,7 @@
 
 ## 📌 Quick Links
 
-- 🎬 **Demo Video**: *[link to your Mediasite video]*
+- 🎬 **Demo Video**: 
 - 📊 **Live Walkthrough**: see screenshots below https://github.com/YutongSun2402/ACC102/blob/main/app.py
 - 📓 **Analysis Notebook**: [`Notebook.ipynb`](Notebook.ipynb)
 - 📄 **Reflective Report**: https://github.com/YutongSun2402/ACC102/blob/main/Reflective_Report.docx
