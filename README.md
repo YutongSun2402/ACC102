@@ -11,7 +11,7 @@
 
 - 🎬 **Demo Video**: *[link to your Mediasite video]*
 - 📊 **Live Walkthrough**: see screenshots below
-- 📓 **Analysis Notebook**: [`notebooks/01_data_cleaning_and_analysis.ipynb`](notebooks/01_data_cleaning_and_analysis.ipynb)
+- 📓 **Analysis Notebook**: [`Notebook.ipynb`](Notebook.ipynb)
 - 📄 **Reflective Report**: ~/Desktop/ecommerce-dashboard/Reflective_Report.docx
 
 ---
