@@ -12,7 +12,7 @@
 - 🎬 **Demo Video**: *[link to your Mediasite video]*
 - 📊 **Live Walkthrough**: see screenshots below
 - 📓 **Analysis Notebook**: [`Notebook.ipynb`](Notebook.ipynb)
-- 📄 **Reflective Report**: ~/Desktop/ecommerce-dashboard/Reflective_Report.docx
+- 📄 **Reflective Report**: https://github.com/YutongSun2402/ACC102/blob/main/Reflective_Report.docx
 
 ---
 
