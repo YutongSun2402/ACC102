@@ -9,7 +9,7 @@
 
 ## 📌 Quick Links
 
-- 🎬 **Demo Video**: 
+- 🎬 **Demo Video**: 【#XJTLU#ACC102-哔哩哔哩】 https://b23.tv/5jAOAe5
 - 📊 **Live Walkthrough**: see screenshots below https://github.com/YutongSun2402/ACC102/blob/main/app.py
 - 📓 **Analysis Notebook**: [`Notebook.ipynb`](Notebook.ipynb)
 - 📄 **Reflective Report**: https://github.com/YutongSun2402/ACC102/blob/main/Reflective_Report.docx
