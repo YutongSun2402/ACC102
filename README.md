@@ -49,7 +49,7 @@ A 4-page Streamlit dashboard with **global filters** (date range, categories, st
 | **Publisher** | Olist Store (Brazilian e-commerce platform) |
 | **Host** | Kaggle |
 | **URL** | https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
-| **Access date** | *2026-04-XX (fill in your date)* |
+| **Access date** | 2026-04-25 |
 | **License** | CC BY-NC-SA 4.0 |
 | **Coverage** | ~100,000 orders, 2016-09 to 2018-10 |
 | **Geographic scope** | 27 Brazilian states |
